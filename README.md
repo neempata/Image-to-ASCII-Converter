@@ -8,8 +8,6 @@ colors in the source image. It then assigns a character to each sampled area and
 renders the result as a normal PNG, JPEG, or WebP image. The finished artwork is
 saved to disk and is not printed in the terminal.
 
-![Custom-color ASCII example](custom_color_ascii.png)
-
 ## Features
 
 - A 68-character density ramp for smooth shading and fine tonal differences
