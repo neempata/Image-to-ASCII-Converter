@@ -11,5 +11,9 @@ custom_color_ascii.png
 # IDE
 .vscode/
 *.json
+.idea/
+.$py_class/
 
 test_ascii_image.py
+
+Thumbs.db
