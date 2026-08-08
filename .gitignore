@@ -8,6 +8,7 @@ __pycache__/
 IMG_20250911_191737_956.jpg
 custom_color_ascii.png
 *.jpg
+*.zip
 
 # IDE
 .vscode/
