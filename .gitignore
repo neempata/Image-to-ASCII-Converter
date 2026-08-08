@@ -7,6 +7,7 @@ __pycache__/
 # Input image files that are not source code
 IMG_20250911_191737_956.jpg
 custom_color_ascii.png
+*.jpg
 
 # IDE
 .vscode/
