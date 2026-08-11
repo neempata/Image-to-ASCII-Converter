@@ -1,4 +1,2 @@
 # Requirements for ascii_image.py
 Pillow>=10.0
-
-argparse
